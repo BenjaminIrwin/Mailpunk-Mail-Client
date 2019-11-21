@@ -1,0 +1,1 @@
+cmd='./configure;--prefix;/homes/bti19/Coursework/Mail/mailpunk_bti19/build/deps'

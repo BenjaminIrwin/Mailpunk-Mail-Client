@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal-complete.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-install.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-mkdir.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-download.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-update.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-patch.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-configure.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libfinal"
+		],
+		"name" : "libfinal"
+	}
+}

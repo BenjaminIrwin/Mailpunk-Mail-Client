@@ -1,0 +1,5 @@
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/rebuild_cache.dir
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan.dir
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/edit_cache.dir
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/MailPunk.dir
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal.dir

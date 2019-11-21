@@ -1,0 +1,13 @@
+# Target labels
+ libetpan
+# Source files and their labels
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan-complete.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-install.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-mkdir.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-download.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-update.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-patch.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-configure.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-build.rule

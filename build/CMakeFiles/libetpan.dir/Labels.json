@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libetpan-complete.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-install.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-mkdir.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-download.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-update.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-patch.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-configure.rule"
+		},
+		{
+			"file" : "/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libetpan-prefix/src/libetpan-stamp/libetpan-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libetpan"
+		],
+		"name" : "libetpan"
+	}
+}

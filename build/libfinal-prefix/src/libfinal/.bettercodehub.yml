@@ -1,0 +1,11 @@
+exclude:
+- /fonts/.*
+- /scripts/.*
+- /doc/.*
+- /build.sh
+- /ltmain.sh
+component_depth: 1
+languages:
+- cpp
+- script
+

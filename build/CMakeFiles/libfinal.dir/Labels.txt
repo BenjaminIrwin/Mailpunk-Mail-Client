@@ -1,0 +1,13 @@
+# Target labels
+ libfinal
+# Source files and their labels
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/CMakeFiles/libfinal-complete.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-install.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-mkdir.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-download.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-update.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-patch.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-configure.rule
+/homes/bti19/Coursework/Mail/mailpunk_bti19/build/libfinal-prefix/src/libfinal-stamp/libfinal-build.rule
