@@ -284,6 +284,13 @@ std::string Message::format_field(char* header_content, std::string fieldname)
 
 void Message::deleteFromMailbox()
 {
+	//In the case that mailbox is already empty
+	if(this == NULL)
+	{
+		delete this;	
+		return;
+	}
+
 	//Prepare deletion
 	auto flag_list = mailimap_flag_list_new_empty();
 	auto deleted_flag = mailimap_flag_new_deleted();
